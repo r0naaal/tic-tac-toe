@@ -2,6 +2,8 @@
 
 This project started as a simple school assignment, but I decided to step it up and make it the best one in the class! It’s a classic Tic-Tac-Toe game you can play in your terminal, either against a friend or a really tough AI opponent.
 
+## About
+
 The AI is not a real neural network or anything super advanced, but it’s smart enough to almost never lose (seriously, it’s really hard to beat—probably wins or draws 99% of the time). Working on this was a cool intro to how AI logic works, and it opened my eyes to learning more about AI and neural networks in the future.
 
 ## Features
